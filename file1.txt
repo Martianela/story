@@ -1,0 +1,2 @@
+.docDos.txt
+.secrets.txt
